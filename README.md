@@ -7,9 +7,9 @@ $ forge build
 ```
 
 ### Test
+Add the `-vvvvv` flag to get the traces as well
 
 ```shell
-Add the `-vvvvv` flag to get the traces as well
 $ forge test -vvvvv
 ```
 
