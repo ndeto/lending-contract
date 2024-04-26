@@ -1,6 +1,6 @@
 ## Set-up
 
-**The foundry Instructions below should work to get the project set-up
+The foundry Instructions below should work to get the project set-up
 
 ```shell
 $ forge build
